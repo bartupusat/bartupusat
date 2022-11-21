@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bartupusat. I’m 17 years old and high school 4th grade student. 
+- 👀 I’m interested in Java  
+- 🌱 I’m currently learning Java basics because i want to be a Java developer in the future.
